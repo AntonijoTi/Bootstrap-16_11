@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+  height: 100vh;
+}
+
+.aukstis{
+  height: 21%;
+}
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;   
+  }
+  .container-fluid, .col, [class*="col-"] {
+      padding-right: 0;
+      padding-left: 0;
+    }
